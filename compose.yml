@@ -1,0 +1,9 @@
+version: '3'
+services:
+  dashboard:
+    build: .
+    environment:
+      - TZ=Europe/Berlin
+    restart: unless-stopped
+    ports:
+      - 8050:8050

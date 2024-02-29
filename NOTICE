@@ -1,0 +1,67 @@
+                                                 
+                      Info                       
+┏━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Item            ┃ Value                       ┃
+┡━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ program         │ licensecheck                │
+│ version         │ 2024                        │
+│ license         │ MIT LICENSE                 │
+│ project_license │ MIT LICENSE                 │
+└─────────────────┴─────────────────────────────┘
+
+                                           List Of Packages                                           
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Compatible ┃ Package                          ┃ License(s)                                         ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ ✔          │ Flask                            │ BSD LICENSE                                        │
+│ ✔          │ Pint                             │ BSD LICENSE                                        │
+│ ✔          │ Werkzeug                         │ BSD LICENSE                                        │
+│ ✔          │ aenum                            │ BSD LICENSE                                        │
+│ ✔          │ aiohttp                          │ APACHE SOFTWARE LICENSE                            │
+│ ✔          │ backports-datetime-fromisoformat │ MIT LICENSE                                        │
+│ ✔          │ beautifulsoup4                   │ MIT LICENSE                                        │
+│ ✔          │ cachetools                       │ MIT LICENSE                                        │
+│ ✔          │ click                            │ BSD LICENSE                                        │
+│ ✔          │ click-params                     │ APACHE SOFTWARE LICENSE                            │
+│ ✔          │ cloup                            │ BSD LICENSE                                        │
+│ ✔          │ contextvars                      │ APACHE SOFTWARE LICENSE                            │
+│ ✔          │ dash                             │ MIT LICENSE                                        │
+│ ✔          │ dash-bootstrap-components        │ APACHE SOFTWARE LICENSE                            │
+│ ✔          │ dash-core-components             │ MIT                                                │
+│ ✔          │ dash-html-components             │ MIT                                                │
+│ ✔          │ dash-table                       │ MIT                                                │
+│ ✔          │ deprecation                      │ APACHE SOFTWARE LICENSE                            │
+│ ✔          │ diskcache                        │ APACHE SOFTWARE LICENSE                            │
+│ ✔          │ environs                         │ MIT LICENSE                                        │
+│ ✔          │ fsspec                           │ BSD LICENSE                                        │
+│ ✔          │ geographiclib                    │ MIT LICENSE                                        │
+│ ✔          │ geopy                            │ MIT LICENSE                                        │
+│ ✔          │ importlib-metadata               │ APACHE SOFTWARE LICENSE                            │
+│ ✔          │ lxml                             │ BSD LICENSE                                        │
+│ ✔          │ measurement                      │ MIT LICENSE                                        │
+│ ✔          │ nest-asyncio                     │ BSD LICENSE                                        │
+│ ✔          │ numpy                            │ BSD LICENSE                                        │
+│ ✔          │ pandas                           │ BSD LICENSE                                        │
+│ ✔          │ platformdirs                     │ MIT LICENSE                                        │
+│ ✔          │ plotly                           │ MIT LICENSE                                        │
+│ ✔          │ polars                           │ MIT LICENSE                                        │
+│ ✔          │ portion                          │ GNU LESSER GENERAL PUBLIC LICENSE V3 (LGPLV3)      │
+│ ✔          │ pyarrow                          │ APACHE SOFTWARE LICENSE                            │
+│ ✔          │ pyhafas                          │ MIT LICENSE                                        │
+│ ✔          │ pypdf                            │ BSD LICENSE                                        │
+│ ✔          │ python-dateutil                  │ BSD LICENSE;; APACHE SOFTWARE LICENSE              │
+│ ✔          │ pytz                             │ MIT LICENSE                                        │
+│ ✔          │ rapidfuzz                        │ MIT LICENSE                                        │
+│ ✔          │ requests                         │ APACHE SOFTWARE LICENSE                            │
+│ ✔          │ retrying                         │ APACHE SOFTWARE LICENSE                            │
+│ ✔          │ scikit-learn                     │ BSD LICENSE                                        │
+│ ✔          │ setuptools                       │ MIT LICENSE                                        │
+│ ✔          │ stamina                          │ MIT LICENSE                                        │
+│ ✔          │ tabulate                         │ MIT LICENSE                                        │
+│ ✔          │ tqdm                             │ MIT LICENSE;; MOZILLA PUBLIC LICENSE 2.0 (MPL 2.0) │
+│ ✔          │ typing_extensions                │ PYTHON SOFTWARE FOUNDATION LICENSE                 │
+│ ✔          │ tzdata                           │ APACHE SOFTWARE LICENSE                            │
+│ ✔          │ tzfpy                            │ MIT LICENSE                                        │
+│ ✔          │ wetterdienst                     │ MIT LICENSE                                        │
+└────────────┴──────────────────────────────────┴────────────────────────────────────────────────────┘
+

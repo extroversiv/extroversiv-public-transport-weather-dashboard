@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+dash = "*"
+pyhafas = "*"
+dash-bootstrap-components = "*"
+wetterdienst = "*"
+geopy = "*"
+licensecheck = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
